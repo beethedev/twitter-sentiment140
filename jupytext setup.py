@@ -1,8 +1,7 @@
 # ---
 # jupyter:
 #   jupytext:
-#     cell_metadata_filter: all
-#     notebook_metadata_filter: all,-language_info
+#     formats: ipynb,py:percent,md
 #     text_representation:
 #       extension: .py
 #       format_name: percent
